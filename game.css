@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    background: #111;
+    color: white;
+    text-align: center;
+}
+canvas {
+    display: block;
+    margin: auto;
+}
+
+#winner {
+    font-size: 42px;
+    color: mediumspringgreen;
+}
